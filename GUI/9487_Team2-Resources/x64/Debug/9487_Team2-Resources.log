@@ -1,0 +1,24 @@
+﻿  AdminDashboardGui.cpp
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(333,11): error C2373: 'user': redefinition; different type modifiers
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(329): message : see declaration of 'user'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(334,11): error C2373: 'pass': redefinition; different type modifiers
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(330): message : see declaration of 'pass'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(336,3): error C3861: 'registerUser': identifier not found
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(340,11): error C2373: 'uname': redefinition; different type modifiers
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(339): message : see declaration of 'uname'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\AdminDashboardGui.h(341,3): error C3861: 'deleteUser': identifier not found
+  ClinicDashboardGui.cpp
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(222,3): error C2065: 'choice': undeclared identifier
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(222,13): error C2059: syntax error: 'string'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(225,3): error C2065: 'choice': undeclared identifier
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(225,13): error C2059: syntax error: 'string'
+  ClinicLoginGui.cpp
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(222,3): error C2065: 'choice': undeclared identifier
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(222,13): error C2059: syntax error: 'string'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(225,3): error C2065: 'choice': undeclared identifier
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicDashboardGui.h(225,13): error C2059: syntax error: 'string'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicLoginGui.h(178,11): error C2373: 'username': redefinition; different type modifiers
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicLoginGui.h(174): message : see declaration of 'username'
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicLoginGui.h(179,11): error C2373: 'password': redefinition; different type modifiers
+C:\Users\Aeika\source\repos\9487_Team2-Resources\9487_Team2-Resources\ClinicLoginGui.h(175): message : see declaration of 'password'
+  Generating Code...
