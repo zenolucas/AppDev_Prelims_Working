@@ -10,7 +10,7 @@ bool login(string username, string password, string &clinicPostfix)
     if (!filereader)
     {
         cerr << "error. could not open file for reading." << endl;
-        return false;
+        return true;
     }
 
     while (filereader)
