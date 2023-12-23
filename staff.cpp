@@ -19,7 +19,7 @@ bool login(string username, string password, string &clinicPostfix)
         getline(filereader, line);
 
         // to store each element separated by comma in the csv line
-        string [
+        string element;
 
         // string vector to store csv values
         vector<int> v;
