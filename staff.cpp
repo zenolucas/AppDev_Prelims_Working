@@ -13,13 +13,13 @@ bool login(string username, string password, string &clinicPostfix)
         return true;
     }
 
-    while (filereader)
+    while (
     {
         string line;
         getline(filereader, line);
 
         // to store each element separated by comma in the csv line
-        string element;
+        string [
 
         // string vector to store csv values
         vector<int> v;
